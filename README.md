@@ -51,4 +51,24 @@ Identifying requirements early helps catch potential issues before development b
 
 Requirement analysis creates a strong foundation for design, development, and testing. It ensures that the final product meets user needs and business goals, which leads to higher satisfaction and successful project outcomes.
 
+## 📋 Key Activities in Requirement Analysis
+
+Effective requirement analysis involves several important activities that help ensure a complete understanding of what the system should do. Here are the five key activities:
+
+- **📥 Requirement Gathering**  
+  Collect raw data from stakeholders, clients, users, and other sources to understand their needs and expectations for the system.
+
+- **🔍 Requirement Elicitation**  
+  Use interviews, surveys, observations, and workshops to actively draw out detailed requirements and clarify unclear or incomplete information.
+
+- **📝 Requirement Documentation**  
+  Record and organize the requirements in a clear, structured format (such as a Software Requirements Specification - SRS) to ensure everyone is aligned.
+
+- **📊 Requirement Analysis and Modeling**  
+  Analyze the collected requirements to detect conflicts, overlaps, or gaps. Create visual models like use case diagrams, data flow diagrams, or user stories to represent the system logically.
+
+- **✅ Requirement Validation**  
+  Confirm with stakeholders that the documented requirements are complete, correct, and meet the business needs. This step helps avoid costly changes later in development.
+
+
 
